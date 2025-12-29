@@ -46,12 +46,6 @@ BOOM_NOW_API_SECRET=<your API secret>
 BOOM_NOW_BASE_URL=https://app.boomnow.com/open_api/v1/
 ```
 
-### 4. Database Setup
-
-```bash
-bin/rails db:prepare
-```
-
 ## Running the Application
 
 This project uses foreman to run the Rails server and esbuild watcher simultaneously.
